@@ -31,7 +31,7 @@ To get a local copy up and running follow these simple steps:
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/d3vashish/Task-Manager-API
    ```
 2. Install NPM packages
    ```sh
@@ -39,7 +39,7 @@ To get a local copy up and running follow these simple steps:
    ```
 3. Start the server
    ```sh
-   npm start
+   node app.js
    ```
 
 ## Usage
